@@ -1,0 +1,12 @@
+C:\Users\pashh\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.exe.config
+C:\Users\pashh\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.exe
+C:\Users\pashh\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.pdb
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.csprojAssemblyReference.cache
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.Properties.Resources.resources
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.csproj.GenerateResource.cache
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.csproj.CoreCompileInputs.cache
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.exe
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.pdb
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.AuthorizationForm.resources
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.RegistrationForm.resources
+C:\Users\pashh\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.ControlForm.resources
